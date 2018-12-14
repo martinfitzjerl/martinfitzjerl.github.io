@@ -17,7 +17,7 @@ class Namer{
 
 let user = new Namer("John");
 
-
+user.sayName();
 
 var time = 0;
 
@@ -30,3 +30,8 @@ setInterval(function() {
     console.log(time + "seconds have passed");
     
 }, 3000);
+
+
+function dor(){
+    console.log("dor");
+}
