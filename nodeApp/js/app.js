@@ -1,23 +1,24 @@
-"use strict";
+// "use strict";
 
-class Namer{
+// class Namer{
 
-    constructor(name){
-        this.name = name;
-    }
+//     constructor(name){
+//         this.name = name;
+//     }
 
-    sayName() {
-        alert(this.name);
-    }
-
-    
+//     sayName() {
+//         alert(this.name);
+//     }
 
     
-}
 
-let user = new Namer("John");
+    
+// }
 
-user.sayName();
+// let user = new Namer("John");
+
+// user.sayName();
+
 
 var time = 0;
 
