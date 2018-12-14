@@ -27,7 +27,7 @@ console.log("Hello from nodeApp");
     
 setInterval(function() {
     time = time + 3;
-    document.write(time + "seconds have passed");
+    document.write(time + 'seconds have passed');
     
 }, 3000);
 
